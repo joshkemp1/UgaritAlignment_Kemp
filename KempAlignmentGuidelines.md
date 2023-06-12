@@ -1,5 +1,7 @@
 # Alignment Guidelines
-## Written by Joshua Kemp and adapted from the guidelines of Dr. Chiara Palladino and Farnoosh Shamsian
+Author: Joshua Kemp (joshuakemp2000@gmail.com)
+Adapted from the following:
+Chiara Palladino, Farnoosh Shamsian, & Tariq Yousef. (2022). Translation Alignment: Ancient Greek to English. Annotation Style Guide and Gold Standard. (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7362097
 ### Punctuation
 Punctuation is never aligned, for two reasons:
   1. There was no punctuation in the original edition of the Greek text.
