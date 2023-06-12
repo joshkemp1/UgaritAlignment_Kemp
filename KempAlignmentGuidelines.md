@@ -38,7 +38,7 @@ Because of the complex nature of Greek verbs, verbal groups are aligned as a sin
 ### Participles
 1. Participles with attributive/implicit forms align with the corresponding word/s. The agreeing noun is aligned separately.
 2. Participles acting as dependent clauses in English are aligned 1-N.
-3. Substantive and attributive participles are aligned with the full explicit translation. Example: τούς μὲν ἔχοντας - some people who had: ‘τούς μέν’ - ‘some people’; ‘ἔχοντας᾽ - ‘who had’ (Palladino and  Shamsian). 
+3. Substantive and attributive participles are aligned with the full explicit translation. Example: τούς μέν ἔχοντας - some people who had: ‘τούς μέν’ - ‘some people’; ‘ἔχοντας᾽ - ‘who had’ (Palladino and  Shamsian). 
 4. When there is an article that corresponds with the participle, it is aligned N-N. 
 5. Genitive absolutes follow the standard practices for participles, with the agreeing noun aligned separately.
 
