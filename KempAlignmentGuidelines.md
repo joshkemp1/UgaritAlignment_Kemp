@@ -53,6 +53,7 @@ Because of the complex nature of Greek verbs, verbal groups are aligned as a sin
 ### Pronouns
 1. Pronouns that correspond in English are aligned 1-1.
 2. Pronouns that replace a noun in one language are not aligned.
+3. Possessive pronouns implicit in Greek but explicit in English are aligned 1-N. Example: 'πλόκαμον' - "*his* tresses"
 
 ### Determiners (articles, etc.)
 1. When determiners are found to be equivalent in Greek and English, they are aligned 1-1.
